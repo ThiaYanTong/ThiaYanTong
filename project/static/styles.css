@@ -1,0 +1,76 @@
+/* Size for brand */
+nav .navbar-brand
+{
+    font-size: xx-large;
+}
+
+/* Colors for brand */
+nav .navbar-brand .grey
+{
+    color: #5A5A5A;
+}
+
+/* create larger container */
+.grid-container-element {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+    border: 1px solid black;
+    width: 90%;
+    height: 80vh;
+    margin: auto;
+}
+
+/* create smaller container */
+.grid-child-element {
+    margin: 10px;
+    border: 1px solid black;
+}
+
+.inner {
+    display: table;
+    margin:  20px auto;
+}
+
+.inner1 {
+    display: table;
+    margin: auto;
+
+}
+
+.outer {
+
+    width:100%;
+}
+
+.line-in-middle {
+    background: linear-gradient(#000, #000) no-repeat center/2px 100%;
+}
+
+
+table, th, td {
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+table {
+    width: 100%;
+    height: 100%;
+}
+
+th, td {
+    width: 14%;
+    height: 5.8%;
+}
+
+#my-table-div {
+    width: 80%;
+    height: 80%;
+    margin: auto;
+}
+
+.paragraphs {
+    width: 80%;
+    margin: auto;
+}
+

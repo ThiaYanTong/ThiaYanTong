@@ -1,0 +1,196 @@
+{% extends "layout.html" %}
+
+{% block main %}
+
+    <div class="grid-container-element">
+        <div id="df" class="grid-child-element outer"><p></p>Timetable
+            <div class="inner">
+                <button id="decrement" style="font-size:16px; font-weight:bold;">&#60;</button>
+                &#160;
+                <span id="start">0</span>
+                &#160;
+                <span>/</span>
+                &#160;
+                <span id ="end">0</span>
+                &#160;
+                <button id="increment" style="font-size:16px; font-weight:bold;">&#62;</button>
+            </div>
+            <div id = "my-table-div">
+                <table class="my-table">
+                    <tr>
+                        <td>Time / Day</td>
+                        <td>Mon</td>
+                        <td>Tue</td>
+                        <td>Wed</td>
+                        <td>Thu</td>
+                        <td>Fri</td>
+                        <td>Sat</td>
+                    </tr>
+                    <tr>
+                        <td>0730 - 0830</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>0830 - 0930</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>0930 - 1030</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>1030 - 1130</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>1130 - 1230</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>1230 - 1330</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>1330 - 1430</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>1430 - 1530</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>1530 - 1630</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>1630 - 1730</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>1730 - 1830</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>1830 - 1930</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>1930 - 2030</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>2030 - 2130</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>2130 - 2230</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>2230 - 2330</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div class="grid-child-element"><p></p>Courses
+            <form id="form" action="">
+            <div class="container1 outer">
+                <button id="add" class="inner">Add New Field
+                    <spans style="font-size:16px; font-weight:bold;">+</span>
+                </button>
+                &nbsp;
+
+            </div>
+            &nbsp;
+            <button id="submit" onclick="myfunction()" class="inner">Submit</button>
+            
+
+        </form>
+        <div id ="error_empty"></div>
+        <div id ="error_dup"></div>
+        <div id = "paragraphs" class="paragraphs"> </div>
+        </div>
+    </div>
+
+{% endblock %}

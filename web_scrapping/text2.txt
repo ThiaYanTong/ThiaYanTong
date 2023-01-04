@@ -1,0 +1,200 @@
+<table border="">
+<tbody><tr>
+<th><b>INDEX</b></th>
+<th><b>TYPE</b></th>
+<th><b>GROUP</b></th>
+<th><b>DAY</b></th>
+<th><b>TIME</b></th>
+<th><b>VENUE</b></th>
+<th><b>REMARK</b></th>
+</tr>
+<tr bgcolor="#CAE2EA">
+<td><b>00202</b></td>
+<td><b>SEM</b></td>
+<td><b>1</b></td>
+<td><b>MON</b></td>
+<td><b>0830-1020</b></td>
+<td><b>S4-SR22</b></td>
+<td><b></b></td>
+</tr>
+<tr bgcolor="#EBFAFF">
+<td><b>00203</b></td>
+<td><b>SEM</b></td>
+<td><b>2</b></td>
+<td><b>MON</b></td>
+<td><b>1030-1220</b></td>
+<td><b>S4-SR22</b></td>
+<td><b></b></td>
+</tr>
+<tr bgcolor="#CAE2EA">
+<td><b>00204</b></td>
+<td><b>SEM</b></td>
+<td><b>3</b></td>
+<td><b>MON</b></td>
+<td><b>1430-1620</b></td>
+<td><b>S4-SR22</b></td>
+<td><b></b></td>
+</tr>
+<tr bgcolor="#EBFAFF">
+<td><b>00205</b></td>
+<td><b>SEM</b></td>
+<td><b>4</b></td>
+<td><b>MON</b></td>
+<td><b>0830-1020</b></td>
+<td><b>S4-SR4</b></td>
+<td><b></b></td>
+</tr>
+<tr bgcolor="#CAE2EA">
+<td><b>00206</b></td>
+<td><b>SEM</b></td>
+<td><b>5</b></td>
+<td><b>MON</b></td>
+<td><b>1030-1220</b></td>
+<td><b>S4-SR4</b></td>
+<td><b></b></td>
+</tr>
+<tr bgcolor="#EBFAFF">
+<td><b>00207</b></td>
+<td><b>SEM</b></td>
+<td><b>6</b></td>
+<td><b>MON</b></td>
+<td><b>1630-1820</b></td>
+<td><b>S4-SR22</b></td>
+<td><b></b></td>
+</tr>
+<tr bgcolor="#CAE2EA">
+<td><b>00208</b></td>
+<td><b>SEM</b></td>
+<td><b>7</b></td>
+<td><b>TUE</b></td>
+<td><b>0830-1020</b></td>
+<td><b>ESR4</b></td>
+<td><b></b></td>
+</tr>
+<tr bgcolor="#EBFAFF">
+<td><b>00209</b></td>
+<td><b>SEM</b></td>
+<td><b>8</b></td>
+<td><b>TUE</b></td>
+<td><b>1030-1220</b></td>
+<td><b>S4-SR8</b></td>
+<td><b></b></td>
+</tr>
+<tr bgcolor="#CAE2EA">
+<td><b>00210</b></td>
+<td><b>SEM</b></td>
+<td><b>9</b></td>
+<td><b>TUE</b></td>
+<td><b>1430-1620</b></td>
+<td><b>S4-SR5</b></td>
+<td><b></b></td>
+</tr>
+<tr bgcolor="#EBFAFF">
+<td><b>00211</b></td>
+<td><b>SEM</b></td>
+<td><b>10</b></td>
+<td><b>TUE</b></td>
+<td><b>1630-1820</b></td>
+<td><b>S4-SR1</b></td>
+<td><b></b></td>
+</tr>
+<tr bgcolor="#CAE2EA">
+<td><b>00212</b></td>
+<td><b>SEM</b></td>
+<td><b>11</b></td>
+<td><b>WED</b></td>
+<td><b>1030-1220</b></td>
+<td><b>S4-SR4</b></td>
+<td><b></b></td>
+</tr>
+<tr bgcolor="#EBFAFF">
+<td><b>00213</b></td>
+<td><b>SEM</b></td>
+<td><b>12</b></td>
+<td><b>WED</b></td>
+<td><b>1430-1620</b></td>
+<td><b>S4-SR4</b></td>
+<td><b></b></td>
+</tr>
+<tr bgcolor="#CAE2EA">
+<td><b>00214</b></td>
+<td><b>SEM</b></td>
+<td><b>13</b></td>
+<td><b>THU</b></td>
+<td><b>1030-1220</b></td>
+<td><b>S3-SR4</b></td>
+<td><b></b></td>
+</tr>
+<tr bgcolor="#EBFAFF">
+<td><b>00215</b></td>
+<td><b>SEM</b></td>
+<td><b>14</b></td>
+<td><b>THU</b></td>
+<td><b>1430-1620</b></td>
+<td><b>S3-SR4</b></td>
+<td><b></b></td>
+</tr>
+<tr bgcolor="#CAE2EA">
+<td><b>00216</b></td>
+<td><b>SEM</b></td>
+<td><b>15</b></td>
+<td><b>THU</b></td>
+<td><b>1630-1820</b></td>
+<td><b>S3-SR4</b></td>
+<td><b></b></td>
+</tr>
+<tr bgcolor="#EBFAFF">
+<td><b>00217</b></td>
+<td><b>SEM</b></td>
+<td><b>16</b></td>
+<td><b>THU</b></td>
+<td><b>0830-1020</b></td>
+<td><b>S4-SR10</b></td>
+<td><b></b></td>
+</tr>
+<tr bgcolor="#CAE2EA">
+<td><b>00218</b></td>
+<td><b>SEM</b></td>
+<td><b>17</b></td>
+<td><b>THU</b></td>
+<td><b>1030-1220</b></td>
+<td><b>S4-SR10</b></td>
+<td><b></b></td>
+</tr>
+<tr bgcolor="#EBFAFF">
+<td><b>00219</b></td>
+<td><b>SEM</b></td>
+<td><b>18</b></td>
+<td><b>FRI</b></td>
+<td><b>0830-1020</b></td>
+<td><b>S4-SR4</b></td>
+<td><b></b></td>
+</tr>
+<tr bgcolor="#CAE2EA">
+<td><b>00220</b></td>
+<td><b>SEM</b></td>
+<td><b>19</b></td>
+<td><b>FRI</b></td>
+<td><b>1030-1220</b></td>
+<td><b>S4-SR4</b></td>
+<td><b></b></td>
+</tr>
+<tr bgcolor="#EBFAFF">
+<td><b>00221</b></td>
+<td><b>SEM</b></td>
+<td><b>20</b></td>
+<td><b>TUE</b></td>
+<td><b>1030-1220</b></td>
+<td><b>//ESR4</b></td>
+<td><b></b></td>
+</tr>
+<tr bgcolor="#EBFAFF">
+<td><b></b></td>
+<td><b>SEM</b></td>
+<td><b>20</b></td>
+<td><b>TUE</b></td>
+<td><b>1030-1220</b></td>
+<td><b>ESR4</b></td>
+<td><b></b></td>
+</tr>
+</tbody></table>
